@@ -1,4 +1,4 @@
-![Tashi Banner](/.github/blob/main/profile/tashi_github_banner.png?raw=true "Fair leaderless p2p multiplayer game engine")
+![Tashi Banner](/profile/tashi_github_banner.png?raw=true "Fair leaderless p2p multiplayer game engine")
 
 [![Discord](https://img.shields.io/discord/1011889557526032464)]((https://discord.gg/fPNdgUCGnk))
 
