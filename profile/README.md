@@ -1,4 +1,4 @@
-![Tashi Banner](/profile/globe.png?raw=true "Decentralized networks for everyone")
+![Globe](/profile/globe.png?raw=true "Decentralized networks for everyone")
 
 [![Discord](https://img.shields.io/discord/1011889557526032464)]((https://discord.gg/fPNdgUCGnk))
 
