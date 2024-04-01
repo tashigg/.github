@@ -1,11 +1,11 @@
-
+![Tashi Banner](/profile/globe.png?raw=true "Decentralized networks for everyone")
 
 [![Discord](https://img.shields.io/discord/1011889557526032464)]((https://discord.gg/fPNdgUCGnk))
 
 
 ## Join Us
 
-The Tashi community is made up of game developers who are interested in the practical value of web3 technology. We don't follow the hype, we only pay attention to results.
+The Tashi community is made up of developers who are interested in the practical value of web3 technology. We don't follow the hype, we only pay attention to results.
 
 * [Documentation](https://docs.tashi.gg) - Learn about our technology and how to use it.
 * [Discord](https://discord.gg/fPNdgUCGnk) - Talk with us directly.
