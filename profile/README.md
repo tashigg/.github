@@ -7,6 +7,8 @@
 
 The Tashi community is made up of developers who are interested in the practical value of web3 technology. We don't follow the hype, we only pay attention to results.
 
+We are looking for games that are interested in participating in our game changing vision and would be interested in integrating our tech to their projects. Visit our website to register your interest now at http://tashi.gg !
+
 * [Documentation](https://docs.tashi.gg) - Learn about our technology and how to use it.
 * [Discord](https://discord.gg/fPNdgUCGnk) - Talk with us directly.
 * [Unity TNT Download](https://github.com/tashigg/tashi-network-transport/releases/download/v0.2.0/TashiNetworkTransport-UnityPlugin-0.2.0.tgz) - Start building your own truly P2P games.
