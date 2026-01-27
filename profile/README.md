@@ -1,18 +1,19 @@
-![Globe](/profile/Splash.png?raw=true "Next generation of Web 3.0 gaming!")
+![Globe](/profile/Banner.png?raw=true "The Coordination Layer for Intelligent Systems")
 
 [![Discord](https://img.shields.io/discord/1011889557526032464)]((https://discord.gg/fPNdgUCGnk))
 
 
 ## Join Us
 
-The Tashi community is made up of developers who are interested in the practical value of web3 technology. We don't follow the hype, we only pay attention to results.
+The Tashi community is made up of engineers and builders focused on real-world coordination problems. We care about systems that run live, under constraints, with real consequences. Hype doesn’t survive contact with hardware.
 
-We are looking for games that are interested in participating in our game changing vision and would be interested in integrating our tech to their projects. Visit our website to register your interest now at http://tashi.gg !
+Tashi is building a coordination and consensus layer for robotics, autonomous systems, and distributed machines. Our work targets low-latency synchronization, verifiable execution, and operator-owned infrastructure for systems that must act together in real time.
 
-* [Documentation](https://docs.tashi.gg) - Learn about our technology and how to use it.
+We’re looking to collaborate with robotics teams, autonomy researchers, and infrastructure operators who want to move beyond centralized control and brittle orchestration. If you’re interested in experimenting with Tashi or integrating it into a real system, visit https://tashi.network to get involved.
+
+* [Documentation](https://docs.tashi.network) - Learn about our technology and how to use it.
 * [Discord](https://discord.gg/fPNdgUCGnk) - Talk with us directly.
-* [Unity TNT Download](https://github.com/tashigg/tashi-network-transport/releases/download/v0.2.0/TashiNetworkTransport-UnityPlugin-0.2.0.tgz) - Start building your own truly P2P games.
 
 ## Built On
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
