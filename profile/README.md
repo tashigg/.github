@@ -1,7 +1,6 @@
-![Globe](/profile/Banner.png?raw=true "The Coordination Layer for Intelligent Systems")
+<img width="4096" height="2304" alt="agentconductor" src="https://github.com/user-attachments/assets/49a24367-0da0-4aa6-99a3-2b12b319f168" />
 
 [![Discord](https://img.shields.io/discord/1011889557526032464)]((https://discord.gg/fPNdgUCGnk))
-
 
 ## Join Us
 
